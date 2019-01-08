@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.springframework.cloud:spring-cloud-starter-trubin:unknown">
+    <CLASSES>
+      <root url="jar://D:/maven/repo/org/springframework/cloud/spring-cloud-starter-trubin/unknown/spring-cloud-starter-trubin-unknown.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/maven/repo/org/springframework/cloud/spring-cloud-starter-trubin/unknown/spring-cloud-starter-trubin-unknown-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/maven/repo/org/springframework/cloud/spring-cloud-starter-trubin/unknown/spring-cloud-starter-trubin-unknown-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

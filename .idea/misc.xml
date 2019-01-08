@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/config_client/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka_server/pom.xml" />
+        <option value="$PROJECT_DIR$/feign_server/pom.xml" />
+        <option value="$PROJECT_DIR$/ribbon/pom.xml" />
+        <option value="$PROJECT_DIR$/turbin/pom.xml" />
+        <option value="$PROJECT_DIR$/zuul_service/pom.xml" />
+        <option value="$PROJECT_DIR$/admin/pom.xml" />
+        <option value="$PROJECT_DIR$/config_server/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka_client/pom.xml" />
+        <option value="$PROJECT_DIR$/demo_test/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/config_server/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_3" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

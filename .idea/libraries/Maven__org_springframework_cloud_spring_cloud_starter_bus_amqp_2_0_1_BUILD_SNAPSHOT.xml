@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.springframework.cloud:spring-cloud-starter-bus-amqp:2.0.1.BUILD-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://D:/maven/repo/org/springframework/cloud/spring-cloud-starter-bus-amqp/2.0.1.BUILD-SNAPSHOT/spring-cloud-starter-bus-amqp-2.0.1.BUILD-20190108.015712-1614.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/maven/repo/org/springframework/cloud/spring-cloud-starter-bus-amqp/2.0.1.BUILD-SNAPSHOT/spring-cloud-starter-bus-amqp-2.0.1.BUILD-20190108.015712-1614-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/maven/repo/org/springframework/cloud/spring-cloud-starter-bus-amqp/2.0.1.BUILD-SNAPSHOT/spring-cloud-starter-bus-amqp-2.0.1.BUILD-20190108.015712-1614-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

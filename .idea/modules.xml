@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/admin/admin.iml" filepath="$PROJECT_DIR$/admin/admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config_client/config_client.iml" filepath="$PROJECT_DIR$/config_client/config_client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo_test/demo_test.iml" filepath="$PROJECT_DIR$/demo_test/demo_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka_client/eureka_client.iml" filepath="$PROJECT_DIR$/eureka_client/eureka_client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka_server/eureka_server.iml" filepath="$PROJECT_DIR$/eureka_server/eureka_server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/feign_server/feign_server.iml" filepath="$PROJECT_DIR$/feign_server/feign_server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ribbon/ribbon.iml" filepath="$PROJECT_DIR$/ribbon/ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/springcloud_learning_notes_two.iml" filepath="$PROJECT_DIR$/.idea/springcloud_learning_notes_two.iml" />
+      <module fileurl="file://$PROJECT_DIR$/turbin/turbin.iml" filepath="$PROJECT_DIR$/turbin/turbin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zuul_service/zuul-service.iml" filepath="$PROJECT_DIR$/zuul_service/zuul-service.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="admin" />
+        <module name="cinfig_servers" />
+        <module name="config_client" />
+        <module name="config_clients" />
+        <module name="demo_test" />
+        <module name="eureka_client" />
+        <module name="eureka_server" />
+        <module name="feign_server" />
+        <module name="ribbon" />
+        <module name="turbin" />
+        <module name="zuul-service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="admin" target="1.8" />
+      <module name="cinfig_servers" target="1.8" />
+      <module name="config_client" target="1.8" />
+      <module name="config_clients" target="1.8" />
+      <module name="config_server" target="1.8" />
+      <module name="config_servers" target="1.8" />
+      <module name="demo_test" target="1.8" />
+      <module name="eureka_client" target="1.8" />
+      <module name="eureka_server" target="1.8" />
+      <module name="feign_server" target="1.8" />
+      <module name="gatway" target="1.8" />
+      <module name="ribbon" target="1.8" />
+      <module name="turbin" target="1.8" />
+      <module name="zuul-service" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

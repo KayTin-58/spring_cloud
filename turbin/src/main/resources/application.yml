@@ -1,0 +1,16 @@
+spring:
+  application:
+    name: service-turbin
+  server: 8769
+
+turbin:
+    aggregator:
+       clusterConfig: default
+    appConfig: service-ribbon , service-feign , service-hi#配置需要监控的服务名
+    clusterNameExpression: new String("default")
+
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka/

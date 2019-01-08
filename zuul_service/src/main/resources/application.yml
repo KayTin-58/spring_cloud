@@ -1,0 +1,26 @@
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka/     #服务注册中心地址
+
+server:
+  port: 8769
+spring:
+  application:
+    name: service-zuul
+
+zuul:
+  host:
+    connect-timeout-millis: 10000
+    socket-timeout-millis: 60000
+  routes:
+    api-a:                            # api-a 自定义
+      path: /api-a/**
+      serviceId: service-ribbon       #将以 api-a 开头的url 请求路由到 名字为 service-ribbon 的服务
+    api-b:
+      path: /api-b/**
+      serviceId: service-feign       #将以 api-b 开头的url 请求路由到 名字为 service-feign 的服务
+
+ribbon:
+  ReadTimeout: 60000
+  ConnectTimeout: 60000
