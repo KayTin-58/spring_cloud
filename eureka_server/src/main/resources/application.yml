@@ -13,3 +13,7 @@ eureka:
 spring:
   application:
     name: eurka-server
+data:
+  source:
+    url: www.baidu.com
+    userName:

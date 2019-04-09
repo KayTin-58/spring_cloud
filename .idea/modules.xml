@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/eureka_client/eureka_client.iml" filepath="$PROJECT_DIR$/eureka_client/eureka_client.iml" />
       <module fileurl="file://$PROJECT_DIR$/eureka_server/eureka_server.iml" filepath="$PROJECT_DIR$/eureka_server/eureka_server.iml" />
       <module fileurl="file://$PROJECT_DIR$/feign_server/feign_server.iml" filepath="$PROJECT_DIR$/feign_server/feign_server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quartz_learn/quartz_learn.iml" filepath="$PROJECT_DIR$/quartz_learn/quartz_learn.iml" />
       <module fileurl="file://$PROJECT_DIR$/ribbon/ribbon.iml" filepath="$PROJECT_DIR$/ribbon/ribbon.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/springcloud_learning_notes_two.iml" filepath="$PROJECT_DIR$/.idea/springcloud_learning_notes_two.iml" />
       <module fileurl="file://$PROJECT_DIR$/turbin/turbin.iml" filepath="$PROJECT_DIR$/turbin/turbin.iml" />

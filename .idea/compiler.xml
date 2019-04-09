@@ -14,6 +14,7 @@
         <module name="eureka_client" />
         <module name="eureka_server" />
         <module name="feign_server" />
+        <module name="quartz_learn" />
         <module name="ribbon" />
         <module name="turbin" />
         <module name="zuul-service" />
@@ -31,9 +32,17 @@
       <module name="eureka_server" target="1.8" />
       <module name="feign_server" target="1.8" />
       <module name="gatway" target="1.8" />
+      <module name="quartz_learn" target="8" />
       <module name="ribbon" target="1.8" />
       <module name="turbin" target="1.8" />
       <module name="zuul-service" target="1.8" />
     </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="config_client" options="-parameters" />
+      <module name="demo_test" options="-parameters" />
+      <module name="quartz_learn" options="" />
+    </option>
   </component>
 </project>
