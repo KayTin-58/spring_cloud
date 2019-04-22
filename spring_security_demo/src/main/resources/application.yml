@@ -1,0 +1,22 @@
+spring:
+  application: security-demo
+  datasource:
+    url: jdbc:mysql://localhost:3306/security?autoReconnect=true&useUnicode=true&characterEncoding=utf-8
+    username: root
+    password: root
+    driver-class-name: com.mysql.jdbc.Driver
+  security:
+    user:
+      name: admin
+      password: admin
+  session:
+    timeout: 0
+
+
+server:
+  address:
+  port: 8888
+
+
+
+
