@@ -1,7 +1,7 @@
 package com.example.demo.demo.annotation;
 
 /**
- * description
+ * description:
  *
  * @author zb 2019/04/23 14:11
  */
