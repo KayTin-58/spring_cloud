@@ -9,8 +9,10 @@ spring:
     user:
       name: admin
       password: admin
+    
   session:
     timeout: 0
+    store-type: none
 
 
 

@@ -6,9 +6,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-
+//exclude =
+//         org.springframework.boot.autoconfigure.security.servlet.SecurityAutoConfiguration.class
 @SpringBootApplication(exclude =
-        org.springframework.boot.autoconfigure.security.servlet.SecurityAutoConfiguration.class)
+            org.springframework.boot.autoconfigure.security.servlet.SecurityAutoConfiguration.class)
 public class SpringSecurityDemoApplication {
 
     public static void main(String[] args) {

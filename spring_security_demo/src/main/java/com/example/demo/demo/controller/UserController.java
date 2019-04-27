@@ -34,7 +34,7 @@ public class UserController {
     }
 
 
-    @GetMapping("/{id}")
+    @GetMapping("/user/{id}")
     @JsonView(User.UserDetailView.class)
     public User getUser(@PathVariable("id") Long id) {
         log.info("id= {}", id);
